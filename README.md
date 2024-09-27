@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MisterDoobDoob
-- 👀 I’m interested in data science and cybersecurity
-- 🌱 I’m currently learning, period
-- 💞️ I’m looking to collaborate on ...
+## 👋 Hi there
+- 👀 I’m interested in data engineering and cybersecurity
+- 🌱 I’m currently learning hardware security
 - 📫 Message me sam at oi dot wtf!
 
 <!---
